@@ -1,3 +1,4 @@
+[for english](https://github.com/jimmyduang/docker-compose-deploy/blob/master/readme-en.md)
 ## docker-compose 一键部署部署依赖以及应用
 
 ### 目录结构
