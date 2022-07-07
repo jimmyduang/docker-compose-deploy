@@ -1,0 +1,17 @@
+dbConfig:
+  host: postgres
+  port: 5432
+  user: app_user
+  password: app_pass
+  dbName: app_db
+  sslMode: disable
+  maxIdleConns: 10
+  maxOpenConns: 100
+  # 单位为秒
+  connMaxLifetime: 3600
+
+logConfig:
+  path: ./log/test.log
+  jsonOutPut: false
+
+serverPort: 8081

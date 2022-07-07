@@ -1,0 +1,6 @@
+time="2022-07-07T04:22:51Z" level=info msg="begin connet pgsql" func=gitlab.test.com/common/db.DBConfig.Init file="/Users/jimmydang/go/pkg/mod/gitlab.test.com/common/db@v1.0.2/db.go:33"
+time="2022-07-07T04:22:51Z" level=info msg="start server" func=gitlab.test.com/common/srv-example/cmd/srv-example/api.Server file="/Users/jimmydang/data/code/srv-example/cmd/srv-example/api/root.go:29"
+time="2022-07-07T04:22:56Z" level=warning msg="===dadadsdadadasd====" func=gitlab.test.com/common/srv-example/pkg/controller.HelloController file="/Users/jimmydang/data/code/srv-example/pkg/controller/hello_ctl.go:13"
+time="2022-07-07T06:21:29Z" level=info msg="begin connet pgsql" func=gitlab.test.com/common/db.DBConfig.Init file="/Users/jimmydang/go/pkg/mod/gitlab.test.com/common/db@v1.0.2/db.go:33"
+time="2022-07-07T06:21:29Z" level=info msg="start server" func=gitlab.test.com/common/srv-example/cmd/srv-example/api.Server file="/Users/jimmydang/data/code/srv-example/cmd/srv-example/api/root.go:29"
+time="2022-07-07T06:21:40Z" level=warning msg="===dadadsdadadasd====" func=gitlab.test.com/common/srv-example/pkg/controller.HelloController file="/Users/jimmydang/data/code/srv-example/pkg/controller/hello_ctl.go:13"
